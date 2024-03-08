@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/soladhrachintan/birthday/static/css/main.ad930e2f.css",
+    "main.js": "/soladhrachintan/birthday/static/js/main.3bfa2b2a.js",
+    "static/js/453.1d3ea159.chunk.js": "/soladhrachintan/birthday/static/js/453.1d3ea159.chunk.js",
+    "index.html": "/soladhrachintan/birthday/index.html",
+    "main.ad930e2f.css.map": "/soladhrachintan/birthday/static/css/main.ad930e2f.css.map",
+    "main.3bfa2b2a.js.map": "/soladhrachintan/birthday/static/js/main.3bfa2b2a.js.map",
+    "453.1d3ea159.chunk.js.map": "/soladhrachintan/birthday/static/js/453.1d3ea159.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad930e2f.css",
+    "static/js/main.3bfa2b2a.js"
+  ]
+}
